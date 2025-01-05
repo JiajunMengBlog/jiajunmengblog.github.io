@@ -1,2 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Jiajun's Blog</title><link>https://jiajunmengblog.github.io</link><description> </description><copyright>Jiajun's Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://upload-images.jianshu.io/upload_images/28135291-8069e3c0f474a82a.jpg</url><title>avatar</title><link>https://jiajunmengblog.github.io</link></image><lastBuildDate>Sun, 05 Jan 2025 12:15:37 +0000</lastBuildDate><managingEditor>Jiajun's Blog</managingEditor><ttl>60</ttl><webMaster>Jiajun's Blog</webMaster><item><title>Demo</title><link>https://jiajunmengblog.github.io/post/Demo.html</link><description>Demo.</description><guid isPermaLink="true">https://jiajunmengblog.github.io/post/Demo.html</guid><pubDate>Sun, 05 Jan 2025 11:08:23 +0000</pubDate></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Jiajun's Blog</title><link>https://jiajunmengblog.github.io</link><description> </description><copyright>Jiajun's Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://upload-images.jianshu.io/upload_images/28135291-8069e3c0f474a82a.jpg?imageMogr2/auto-orient/strip|imageView2/2/w/1080/format/webp</url><title>avatar</title><link>https://jiajunmengblog.github.io</link></image><lastBuildDate>Sun, 05 Jan 2025 12:22:33 +0000</lastBuildDate><managingEditor>Jiajun's Blog</managingEditor><ttl>60</ttl><webMaster>Jiajun's Blog</webMaster><item><title>MATH</title><link>https://jiajunmengblog.github.io/post/MATH.html</link><description>## 分部积分法&#13;
+&#13;
+$$&#13;
+\int_a^bud\nu=(u\nu)\Big|_a^b-\int_a^b\nu du&#13;
+$$&#13;
+&#13;
+## 包络定理&#13;
+&#13;
+&lt;u&gt;Definition&lt;/u&gt;: 参数的值变动时，目标函数的变动只和参数的变动有关，而与自变量（因参数变动而引起）的变动无关&#13;
+&#13;
+- 设目标函数 $f(x, α)$ 是可微实函数，其中 $x$ 是自变量,  $α$ 是参数。设 $V(α)=f(x^∗,α)$，其中 $x^∗$ 是 $f$ 取到极值时的 $x$*，*则包络定理指出&#13;
+&#13;
+$$&#13;
+\frac{\mathrm{d}V}{\mathrm{d}\alpha}=\frac{\partial f}{\partial\alpha}\Bigg|_{x=x^*}&#13;
+$$&#13;
+&#13;
+&lt;u&gt;Proof&lt;/u&gt;: 根据全微分公式&#13;
+$$&#13;
+\mathrm{d}V=\mathrm{d}f\Big|_{x=x^*}=\left(\frac{\partial f}{\partial x}\mathrm{d}x+\frac{\partial f}{\partial\alpha}\mathrm{d}\alpha\right)\Big|_{x=x^*}&#13;
+$$&#13;
+因为 $x^∗$ 是 $f$ 取到极值时的 $x$, 故 $\frac{\partial f}{\partial x}\Big|_{x=x^*}=0$.</description><guid isPermaLink="true">https://jiajunmengblog.github.io/post/MATH.html</guid><pubDate>Sun, 05 Jan 2025 12:18:38 +0000</pubDate></item><item><title>Demo</title><link>https://jiajunmengblog.github.io/post/Demo.html</link><description>Demo.</description><guid isPermaLink="true">https://jiajunmengblog.github.io/post/Demo.html</guid><pubDate>Sun, 05 Jan 2025 11:08:23 +0000</pubDate></item></channel></rss>
