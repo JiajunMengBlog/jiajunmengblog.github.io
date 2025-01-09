@@ -1,0 +1,5 @@
+I always struggle with self-discipline. For example, after managing to wake up early for a few days, I tend to fall back into the habit of staying in bed; I plan to exercise daily to maintain my health, but it remains merely a plan without any action. That is, self-discipline is not a stable state of  "equilibrium". Thus, it leads me to think why is self-discipline so challenging?
+
+We observe a conflict between the mind and the body. Specifically, while our mind seemingly aspires to lofty goals of self-discipline, our body is unwilling to execute the plans set by our mind. In fact,  we often cease to follow through with our plans when we find that things have not improved after a few days. We often complain "why haven't I become healthier?", or "why has nothing changed in my life?", and so on. In fact,  only after a prolonged period of persistence can changes happen.
+
+Herein lies the question: How can we maintain long-run persistence? I think it requires us to be more patient and farsighted, which allows us to reach a stable equilibrium in this repeated game of self-discipline. 
